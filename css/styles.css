@@ -33,6 +33,31 @@ body {
     font-size: 40px;
 }
 
+iframe {
+    width: 100%;
+}
+
+#spoiler {
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+
+.imagen1 {
+    width: 100%;
+}
+
+#footer {
+    text-align: center;
+    background-color: black;
+    color: gray;
+    padding: 12px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 
 /* Diseño responsive */
 
